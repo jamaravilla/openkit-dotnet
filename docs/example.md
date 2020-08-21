@@ -43,7 +43,7 @@ application's id can be found in the settings page of the custom application in 
 
 An OpenKit instance for AppMon can be obtained by using the `AppMonOpenKitBuilder`.
 
-:information_source: VisualBasic developers should use `DynatraceOpenKitBuilderVB` for now to workaround an
+:information_source: VisualBasic developers should use `AppMonOpenKitBuilderVB` for now to workaround an
 ambiguity error caused by two methods differing in case only.
 
 The example below demonstrates how to connect an OpenKit application to an AppMon endpoint.
